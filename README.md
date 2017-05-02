@@ -17,9 +17,9 @@ clean raw txt data into csv files, and saved in 5csv
 cleaned data
 
 6. Analysis of yellow cab trips along subway line.ipynb
-Data exploration and statistical test. 
-1)find out anomaly day,
-2)find out anomaly hour,
-3)statistical test, which line got 'stolen' business by yellow cab
-4)statistical test, which two lines are most similar
+Data exploration and statistical test. </br>
+1)find out anomaly day,</br>
+2)find out anomaly hour,</br>
+3)statistical test, which line got 'stolen' business by yellow cab</br>
+4)statistical test, which two lines are most similar</br>
 
